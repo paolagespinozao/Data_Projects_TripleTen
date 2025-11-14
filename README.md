@@ -3,7 +3,7 @@ A collection of projects I developed while completing the Business Intelligence 
 
 
 | Project number | Title | Tools | Description |
-| :-----------: | ----------- |----------- |
+| :-----------: | ----------- |----------- |----------- |
 | 1 | Music Platform Performance Analysis | Excel/Google Sheets | Evaluated Fresh Beats’ promotion strategies, user engagement, and genre performance. Summarized insights and delivered recommendations to improve artist exposure, increase user conversion, and enhance platform engagement. |
 | 2 | Manhattan Airbnb Market Analysis | Excel/Google Sheets | Evaluated Manhattan Airbnb data to determine the best neighborhoods and property sizes for vacation rentals. Used pivot tables to analyze demand, calculated revenue for top listings, and produced recommendations for profitable real estate investment.|
 | 3 | End-to-End SQL Analysis for Venture Capital Decision-Making | SQL | Analyzed VentureInsight’s database of startups, funding rounds, acquisitions, investors, and people. Covered startup survival, sector funding, acquisition trends, social media influencer detection, global funding distribution, fund activity levels, and education-based success analysis. |
